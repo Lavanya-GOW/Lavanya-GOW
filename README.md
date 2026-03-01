@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋 I'm Lavanya
 
-<!--
-**Lavanya-GOW/Lavanya-GOW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Cloud & DevOps Engineer  
+💻 Passionate about building real-world CLI tools using Python  
+🐧 Exploring Linux, Networking & Automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+
+- Python for System Tools
+- Linux Fundamentals
+- Networking Basics
+- Git & Version Control
+- DevOps Foundations
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Linux
+- Git
+- JSON / File Handling
+- CLI Application Development
+
+---
+
+## 📦 Projects I'm Building
+
+🔹 Notes Manager CLI  
+🔹 Expense Tracker CLI  
+🔹 Quiz Application  
+🔹 Number Guessing Game  
+
+(All focused on logic, file handling & real-world usability)
+
+---
+
+## 🌱 My Goal
+
+To become a Cloud Engineer who understands systems —  
+not just writes code.
+
+---
+
+## 📌 Focus Areas for 2026
+
+- Networking for Cloud
+- Automation Tools
+- DevOps Basics
+- Real-world Python Projects
+
+---
+
+## ⚡ Fun Fact
+
+I believe small CLI tools build big engineering thinking.
