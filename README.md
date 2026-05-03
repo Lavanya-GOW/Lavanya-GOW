@@ -1,60 +1,97 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
 
-# Hi there 👋 I'm Lavanya
+# Hi, I'm Lavanya 👋
 
-🚀 Aspiring Cloud & DevOps Engineer  
-💻 Passionate about building real-world CLI tools using Python  
-🐧 Exploring Linux, Networking & Automation  
+## About Me
+
+I’m an undergraduate student at IIT Jammu, pursuing Electrical Engineering while building strong skills in Cloud Computing, DevOps, Linux, and Backend Systems.
+
+I focus on building practical projects that improve problem-solving, system thinking, and real-world engineering skills.
+
+Currently working on:
+
+- Python Development
+- Linux & Shell Scripting
+- Networking Fundamentals
+- Docker & Containers
+- AWS Cloud
+- CI/CD Pipelines
+- Git & GitHub
+
+My goal is to become highly skilled in Cloud/DevOps and build systems that are reliable, scalable, and production-ready.
 
 ---
 
-## 🧠 Currently Learning
+## Tech Stack
 
-- Python for System Tools
-- Linux Fundamentals
-- Networking Basics
-- Git & Version Control
-- DevOps Foundations
-
----
-
-## 🛠️ Tools & Technologies
-
+### Languages
 - Python
+- Bash
+
+### Tools & Technologies
 - Linux
-- Git
-- JSON / File Handling
-- CLI Application Development
+- Git & GitHub
+- JSON / CSV Handling
+- Argparse
+- Logging
+- CLI Tools
+- Encryption Basics
+- File Handling
+
+### Learning Next
+- Docker
+- AWS
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- Terraform
+- API Development
 
 ---
 
-## 📦 Projects I'm Building
+## Featured Projects
 
-🔹 Notes Manager CLI  
-🔹 Expense Tracker CLI  
-🔹 Quiz Application  
-🔹 Number Guessing Game  
+### 🔐 Password Manager
+A secure Python CLI password manager with master password authentication, encrypted password storage using Fernet, password generation, search, update, and delete functionality.
 
-(All focused on logic, file handling & real-world usability)
+### 💰 Expense Tracker
+A Python-based CLI expense tracker using CSV storage, argparse, logging, expense sorting, highest expense tracking, and category-wise analysis.
 
----
+### 📝 Notes Manager
+A structured command-line notes manager with file handling, argparse support, and logging for better usability and maintainability.
 
-## 🌱 My Goal
+### ✅ To-Do List
+A simple task manager built using Python with add, delete, update, and task viewing features.
 
-To become a Cloud Engineer who understands systems —  
-not just writes code.
-
----
-
-## 📌 Focus Areas for 2026
-
-- Networking for Cloud
-- Automation Tools
-- DevOps Basics
-- Real-world Python Projects
+### 🎯 Number Guessing Game
+A Python game with difficulty levels, limited attempts, replay system, and score tracking.
 
 ---
 
-## ⚡ Fun Fact
+## GitHub Goals
 
-I believe small CLI tools build big engineering thinking.
+I believe strong engineering comes from consistent building.
+
+I use GitHub to document my learning journey, projects, improvements, and progression from beginner projects to production-style systems.
+
+This profile will continue growing with:
+
+- Linux Projects
+- Docker Projects
+- AWS Deployments
+- Networking Labs
+- API Projects
+- CI/CD Pipelines
+- DevOps Automation
+
+---
+
+## Connect With Me
+
+I’m focused on learning, building, and improving every day.
+
+Always open to collaboration, learning opportunities, and strong technical discussions.
+
+---
+
+⭐ Building projects > collecting certificates
