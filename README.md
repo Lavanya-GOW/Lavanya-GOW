@@ -1,88 +1,82 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
 
-# Hi, I'm Lavanya 👋
+# Hi 👋 I'm Lavanya
 
-## About Me
+### Electrical Engineering Undergraduate @ IIT Jammu
 
-I’m an undergraduate student at IIT Jammu, pursuing Electrical Engineering while building strong skills in Cloud Computing, DevOps, Linux, and Backend Systems.
+I'm passionate about building scalable cloud infrastructure and learning how modern platforms operate behind the scenes.
 
-I focus on building practical projects that improve problem-solving, system thinking, and real-world engineering skills.
+Currently focusing on:
 
-Currently working on:
-
-- Python Development
-- Linux & Shell Scripting
-- Networking Fundamentals
-- Docker & Containers
-- AWS Cloud
-- CI/CD Pipelines
-- Git & GitHub
-
-My goal is to become highly skilled in Cloud/DevOps and build systems that are reliable, scalable, and production-ready.
+- ☁️ Cloud Computing
+- ⚙️ Platform Engineering
+- 🐳 Docker
+- 🌍 AWS
+- 🏗️ Terraform
+- ☸️ Kubernetes (Currently Learning)
 
 ---
 
-## Tech Stack
+## 🚀 Current Goal
 
-### Languages
+Build production-inspired cloud infrastructure while continuously improving my DevOps and Platform Engineering skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+
 - Python
-- Bash
 
-### Tools & Technologies
-- Linux
-- Git & GitHub
-- JSON / CSV Handling
-- Argparse
-- Logging
-- CLI Tools
-- Encryption Basics
-- File Handling
+### Cloud
 
-### Learning Next
-- Docker
 - AWS
-- Kubernetes
-- Jenkins
-- GitHub Actions
+
+### Infrastructure
+
 - Terraform
-- API Development
+
+### Containers
+
+- Docker
+- Docker Compose
+
+### DevOps
+
+- Git
+- GitHub
+- GitHub Actions
+
+### Operating System
+
+- Linux
 
 ---
 
-## Featured Projects
+## 📚 Currently Learning
 
-### 🔐 Password Manager
-A secure Python CLI password manager with master password authentication, encrypted password storage using Fernet, password generation, search, update, and delete functionality.
-
-### 💰 Expense Tracker
-A Python-based CLI expense tracker using CSV storage, argparse, logging, expense sorting, highest expense tracking, and category-wise analysis.
-
-### 📝 Notes Manager
-A structured command-line notes manager with file handling, argparse support, and logging for better usability and maintainability.
-
-### ✅ To-Do List
-A simple task manager built using Python with add, delete, update, and task viewing features.
-
-### 🎯 Number Guessing Game
-A Python game with difficulty levels, limited attempts, replay system, and score tracking.
+- Kubernetes
+- Helm
+- Amazon EKS
 
 ---
 
-## GitHub Goals
+## 📌 Featured Projects
 
-I believe strong engineering comes from consistent building.
+- 🔐 Password Manager
+- ☁️ AWS Flask Application
+- 🏗️ Three Tier AWS Architecture
 
-I use GitHub to document my learning journey, projects, improvements, and progression from beginner projects to production-style systems.
+---
 
-This profile will continue growing with:
+## 📈 2026 Goals
 
-- Linux Projects
-- Docker Projects
-- AWS Deployments
-- Networking Labs
-- API Projects
-- CI/CD Pipelines
-- DevOps Automation
+- Master Kubernetes
+- Learn Helm
+- Deploy applications on Amazon EKS
+- Learn GitOps
+- Learn Prometheus and Grafana
 
 ---
 
