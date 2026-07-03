@@ -9,7 +9,7 @@ Electrical Engineering Undergraduate • Cloud Computing • Platform Engineerin
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harshu&fontAlign=50&fontAlignY=38&color=0:4F46E5,100:06B6D4&fontSize=45&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Lavanya&fontAlign=50&fontAlignY=38&color=0:4F46E5,100:06B6D4&fontSize=45&animation=fadeIn"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -127,17 +127,6 @@ A command-line password manager built with:
 
 ⬜ Platform Engineering
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lavanya-GOW&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya-GOW&layout=compact"/>
-
-</p>
-
----
 
 ⭐ Thanks for visiting my GitHub!
 
