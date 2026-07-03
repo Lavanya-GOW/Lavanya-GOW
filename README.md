@@ -1,91 +1,146 @@
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+<h1 align="center">Hi 👋, I'm Lavanya</h1>
 
-# Hi 👋 I'm Lavanya
+<h3 align="center">
+Electrical Engineering Undergraduate • Cloud Computing • Platform Engineering
+</h3>
 
-### Electrical Engineering Undergraduate @ IIT Jammu
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Cloud+Computing+Enthusiast;Terraform+%7C+Docker+%7C+AWS;Currently+Learning+Kubernetes;Future+Platform+Engineer" />
+</p>
 
-I'm passionate about building scalable cloud infrastructure and learning how modern platforms operate behind the scenes.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harshu&fontAlign=50&fontAlignY=38&color=0:4F46E5,100:06B6D4&fontSize=45&animation=fadeIn"/>
+</p>
 
-Currently focusing on:
+## 👨‍💻 About Me
 
-- ☁️ Cloud Computing
-- ⚙️ Platform Engineering
-- 🐳 Docker
-- 🌍 AWS
-- 🏗️ Terraform
-- ☸️ Kubernetes (Currently Learning)
+- 🎓 Electrical Engineering Undergraduate at **IIT Jammu**
 
----
+- ☁️ Passionate about **Cloud Computing** and **Platform Engineering**
 
-## 🚀 Current Goal
+- 🏗️ I enjoy building production-inspired cloud infrastructure from scratch.
 
-Build production-inspired cloud infrastructure while continuously improving my DevOps and Platform Engineering skills.
+- 🌱 Currently learning **Kubernetes** and preparing for **Amazon EKS**.
 
----
+- 🚀 Long-term goal: Become a **Platform Engineer / Infrastructure Software Engineer**.
 
 ## 🛠️ Tech Stack
 
-### Programming
+### Languages
 
-- Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Cloud
 
-- AWS
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 ### Infrastructure
 
-- Terraform
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
 
 ### Containers
 
-- Docker
-- Docker Compose
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+### Orchestration
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes)
 
 ### DevOps
 
-- Git
-- GitHub
-- GitHub Actions
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 
 ### Operating System
 
-- Linux
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🎯 Current Focus
+
+- Learning Kubernetes deeply
+- Building cloud-native applications
+- Improving Infrastructure as Code practices
+- Exploring Platform Engineering
+- Writing production-quality documentation
+
+## 🚀 Featured Projects
+
+### ☁️ AWS Three-Tier Architecture
+
+Production-inspired AWS infrastructure built using:
+
+- Terraform
+- Docker
+- GitHub Actions
+- Auto Scaling Groups
+- Application Load Balancers
+- Amazon RDS
+- Bastion Host
 
 ---
 
-## 📚 Currently Learning
+### 🐳 AWS Production Flask App
 
-- Kubernetes
-- Helm
-- Amazon EKS
+A Dockerized Flask application deployed using:
 
----
-
-## 📌 Featured Projects
-
-- 🔐 Password Manager
-- ☁️ AWS Flask Application
-- 🏗️ Three Tier AWS Architecture
+- Docker
+- Terraform
+- AWS
+- GitHub Actions
 
 ---
 
-## 📈 2026 Goals
+### 🔐 Secure Password Manager
 
-- Master Kubernetes
-- Learn Helm
-- Deploy applications on Amazon EKS
-- Learn GitOps
-- Learn Prometheus and Grafana
+A command-line password manager built with:
+
+- Python
+- Fernet Encryption
+- SHA-256
+- Logging
+- argparse
+
+## 📚 Learning Journey
+
+✅ Python
+
+✅ Git & GitHub
+
+✅ Linux
+
+✅ Docker
+
+✅ GitHub Actions
+
+✅ Terraform
+
+🔄 Kubernetes
+
+⬜ Helm
+
+⬜ Amazon EKS
+
+⬜ ArgoCD
+
+⬜ Prometheus
+
+⬜ Grafana
+
+⬜ Platform Engineering
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lavanya-GOW&show_icons=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya-GOW&layout=compact"/>
+
+</p>
 
 ---
 
-## Connect With Me
+⭐ Thanks for visiting my GitHub!
 
-I’m focused on learning, building, and improving every day.
+I'm always learning, building and improving.
 
-Always open to collaboration, learning opportunities, and strong technical discussions.
-
----
-
-⭐ Building projects > collecting certificates
+Feel free to explore my repositories!
